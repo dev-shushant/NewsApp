@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="loader">Loader</string>
+    <string name="unknown">UnKnown</string>
+    <string name="read_more">" Read More"</string>
+</resources>
