@@ -60,7 +60,6 @@ The NewsApp project uses the following dependencies:
 ## Contributing
 
 Contributions to the NewsApp project are welcome! If you find a bug, have an enhancement in mind, or want to add new features, please feel free to open an issue or submit a pull request.
-
 ## License
 
 The NewsApp project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal and commercial projects.
