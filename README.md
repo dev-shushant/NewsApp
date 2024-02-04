@@ -1,4 +1,4 @@
-# NewsApp - Android Compose Multi-Module Project
+![image](https://github.com/dev-shushant/NewsApp/assets/20141043/45e6e18d-7377-4132-ba38-31c8834c2178)# NewsApp - Android Compose Multi-Module Project
 
 NewsApp is an Android project built with Jetpack Compose, featuring a multi-module architecture. This application provides a platform for accessing and consuming news articles, showcasing various modules handling distinct aspects of the app.
 
@@ -56,6 +56,12 @@ The NewsApp project uses the following dependencies:
 - Jetpack Compose: For building the modern UI.
 - HttpUrlConnection: For making network API calls.
 - Coroutines: For asynchronous programming and concurrency handling.
+
+  
+![image](https://github.com/dev-shushant/NewsApp/assets/20141043/078f793b-46d5-4919-ad5c-126ecc214613)
+
+![image](https://github.com/dev-shushant/NewsApp/assets/20141043/d4f79dd4-148d-4751-b993-055a6555d38a)
+
 
 ## Contributing
 
