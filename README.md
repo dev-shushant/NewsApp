@@ -63,11 +63,6 @@ The NewsApp project uses the following dependencies:
 - HttpUrlConnection: For making network API calls.
 - Coroutines: For asynchronous programming and concurrency handling.
 
-  
-![image](https://github.com/dev-shushant/NewsApp/assets/20141043/078f793b-46d5-4919-ad5c-126ecc214613)
-
-![image](https://github.com/dev-shushant/NewsApp/assets/20141043/d4f79dd4-148d-4751-b993-055a6555d38a)
-
 
 ## Contributing
 
@@ -75,5 +70,3 @@ Contributions to the NewsApp project are welcome! If you find a bug, have an enh
 ## License
 
 The NewsApp project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal and commercial projects.
-
-![NewsApp Screenshot](https://github.com/ShushantTiwari-ashu/NewsApp/assets/20141043/2fb845e8-646a-41cc-81c1-79afa1ab6b73)
