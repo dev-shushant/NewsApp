@@ -1,6 +1,12 @@
-![image](https://github.com/dev-shushant/NewsApp/assets/20141043/45e6e18d-7377-4132-ba38-31c8834c2178)# NewsApp - Android Compose Multi-Module Project
+# NewsApp - Android Compose Multi-Module Project
 
 NewsApp is an Android project built with Jetpack Compose, featuring a multi-module architecture. This application provides a platform for accessing and consuming news articles, showcasing various modules handling distinct aspects of the app.
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./screenshot/NewsAppLight.png" alt="Light Theme" width="400"/>
+  <img src="./screenshot/NewsAppNight.png" alt="Night Theme" width="400"/>
+</div>
+
 
 ## Modules
 
